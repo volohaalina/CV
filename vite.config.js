@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base:"https://volohaalina.github.io/cv",
+  base:"https://volohaalina.github.io/CV",
   server: {
     port: 5173,
     open: true,
